@@ -18,7 +18,10 @@ const TASKS = [
   'Add SCSS and JS files if required',
   'Stakeholder Meeting',
   'Scoping & Estimations',
-  'Sprint Showcase'
+  'Sprint Showcase',
+  'Daily Scrum',
+  'Meet Client',
+  'Hello'
 ];
 
 // ----------------------------------------------------------------------
